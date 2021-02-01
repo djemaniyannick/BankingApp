@@ -1,0 +1,7 @@
+Create c001
+Create C002
+
+
+Crediter c001 100
+
+virer c001 c002 20

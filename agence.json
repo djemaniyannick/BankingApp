@@ -1,0 +1,15 @@
+{
+  "numero" : "001",
+  "nom" : "agence",
+  "adresse" : "BP 01",
+  "comptes" : [ {
+    "numero" : "c001",
+    "solde" : 80.0,
+    "dateOfCreation" : "2021-01-31"
+  }, {
+    "numero" : "C002",
+    "solde" : 20.0,
+    "dateOfCreation" : "2021-01-31"
+  } ],
+  "capital" : 1000100.0
+}
